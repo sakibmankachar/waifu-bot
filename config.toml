@@ -9,7 +9,7 @@ Prefix = [
 ]
 
 # Your discord bot token
-Bot_Token = "thIsIsaDiscorDToken.Xw41Og.Ix0IhJlhgEbEyK_CJwrGgucn9rk"
+Bot_Token = " "
 
 # URL to mongo database
 # if you using docker-compose, use "mongodb://db:27017"
