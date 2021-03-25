@@ -3,8 +3,9 @@
 
 # Bot prefix.
 Prefix = [
-  "w.",
-  "W.",
+  "wb!",
+  "Wb!",
+  "WB!"
 ]
 
 # Your discord bot token
@@ -17,13 +18,13 @@ Bot_Token = "thIsIsaDiscorDToken.Xw41Og.Ix0IhJlhgEbEyK_CJwrGgucn9rk"
 Mongo_URL = "mongodb://db:27017"
 
 # The bot status is what the bot will be displaying as *Currently Playing*
-Bot_Status = "WaifuBot | w.help"
+Bot_Status = "Waifu-Bot | wb!help"
 
 # This is the maximum number of random characters
 # When pulled, the characters are sorted out of popularity
 # That means you can roll out of the 15000 most popular characters
 # The maximum is around 75000 right now, but is growing with the https://anilist.co/ database
-Max_Character_Roll = 15000
+Max_Character_Roll = 55000
 
 # This means that every time the user makes a meaningful action with the bot
 # he has a change to drop a character to claim
@@ -42,4 +43,4 @@ Max_Character_Drop = 5000
 List_Max_Update_Time = "5m"
 
 # How much time between each user roll
-Time_Between_Rolls = "4h"
+Time_Between_Rolls = "2h"
